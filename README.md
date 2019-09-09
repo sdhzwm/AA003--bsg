@@ -43,5 +43,6 @@
 
 ## ChangeLog
 
+- 190910 junstudys add
 - 190909 Alex fix
 - 190908 sdhzwm init
