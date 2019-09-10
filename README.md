@@ -25,7 +25,11 @@
 - 立项：
 
 ## 相关资料收集与整理
-
+- [2018年各省市人才引入政策汇总 零门槛落户、购房补助多拳并举](https://www.qianzhan.com/analyst/detail/220/180509-c708eff3.html)
+- [《2018中国城市人才竞争力指数报告》发布，不可错过的城市鸟瞰图](https://www.hroot.com/d-9378718.hr?%E3%80%8A2018%E4%B8%AD%E5%9B%BD%E5%9F%8E%E5%B8%82%E4%BA%BA%E6%89%8D%E7%AB%9E%E4%BA%89%E5%8A%9B%E6%8C%87%E6%95%B0%E6%8A%A5%E5%91%8A%E3%80%8B%E5%8F%91%E5%B8%83%EF%BC%8C%E4%B8%8D%E5%8F%AF%E9%94%99%E8%BF%87%E7%9A%84%E5%9F%8E%E5%B8%82%E9%B8%9F%E7%9E%B0%E5%9B%BE-%E4%BA%BA%E5%8A%9B%E8%B5%84%E6%9C%AC%E7%AE%A1%E7%90%86-%E6%8A%A5%E5%91%8A)
+- [如何看待二三线城市人才战略？](https://www.zhihu.com/question/68565455)
+- [超16个城市升级人才引进政策：“落户”放宽学历年龄限制](http://www.xinhuanet.com/fortune/2019-02/24/c_1124154711.htm)
+- [二线城市人才争夺战背后，究竟在抢什么？](https://36kr.com/p/5123768)
 - [便利店的东风来了，哪个城市在这一业态上走得最前？](https://mp.weixin.qq.com/s/i9lo8NuLWPR1xHA6oHc5Zw)
 - [城市与人生的演化](http://www.sohu.com/a/223136814_380923)
 - [北京市 2018 年国民经济和社会发展统计公报 ](http://tjj.beijing.gov.cn/zxfb/201903/t20190320_418991.html)
@@ -41,8 +45,9 @@
 - [逃离你终将衰落的家乡](https://mp.weixin.qq.com/s/hW3imAPE0CzpnCiGT--sRQ )
 - [上海不同阶层人群生存报告](<https://mp.weixin.qq.com/s/Gdo0m1oNkVmNjWj014kx8Q> )
 
-## ChangeLog
 
+## ChangeLog
+- 190910 沐风 add 反方资料
 - 190910 junstudys add
 - 190909 Alex fix
 - 190908 sdhzwm init
