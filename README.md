@@ -25,6 +25,10 @@
 - 立项：
 
 ## 相关资料收集与整理
+-[人才流入率远超一线城市 “新一线城市”人才虹吸效应显现](http://www.xinhuanet.com/legal/2018-05/11/c_1122815638.htm)
+- [新一线城市员工更年轻 近四成本科生毕业三年后离开“北上广深”](http://www.nbd.com.cn/articles/2019-07-05/1351175.html)
+- [谁在向往新一线城市？](https://www.huxiu.com/article/268076.html)
+- [十张图看2019中国热门城市抢人大战政策汇总 2019年“抢人大战”再升级，新一线城市人才吸引力增强](https://www.qianzhan.com/analyst/detail/220/190814-eca31a9f.html)
 - [2018年各省市人才引入政策汇总 零门槛落户、购房补助多拳并举](https://www.qianzhan.com/analyst/detail/220/180509-c708eff3.html)
 - [《2018中国城市人才竞争力指数报告》发布，不可错过的城市鸟瞰图](https://www.hroot.com/d-9378718.hr?%E3%80%8A2018%E4%B8%AD%E5%9B%BD%E5%9F%8E%E5%B8%82%E4%BA%BA%E6%89%8D%E7%AB%9E%E4%BA%89%E5%8A%9B%E6%8C%87%E6%95%B0%E6%8A%A5%E5%91%8A%E3%80%8B%E5%8F%91%E5%B8%83%EF%BC%8C%E4%B8%8D%E5%8F%AF%E9%94%99%E8%BF%87%E7%9A%84%E5%9F%8E%E5%B8%82%E9%B8%9F%E7%9E%B0%E5%9B%BE-%E4%BA%BA%E5%8A%9B%E8%B5%84%E6%9C%AC%E7%AE%A1%E7%90%86-%E6%8A%A5%E5%91%8A)
 - [如何看待二三线城市人才战略？](https://www.zhihu.com/question/68565455)
