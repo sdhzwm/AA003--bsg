@@ -25,7 +25,7 @@
 - 立项：
 
 ## 相关资料收集与整理
--[人才流入率远超一线城市 “新一线城市”人才虹吸效应显现](http://www.xinhuanet.com/legal/2018-05/11/c_1122815638.htm)
+- [人才流入率远超一线城市 “新一线城市”人才虹吸效应显现](http://www.xinhuanet.com/legal/2018-05/11/c_1122815638.htm)
 - [新一线城市员工更年轻 近四成本科生毕业三年后离开“北上广深”](http://www.nbd.com.cn/articles/2019-07-05/1351175.html)
 - [谁在向往新一线城市？](https://www.huxiu.com/article/268076.html)
 - [十张图看2019中国热门城市抢人大战政策汇总 2019年“抢人大战”再升级，新一线城市人才吸引力增强](https://www.qianzhan.com/analyst/detail/220/190814-eca31a9f.html)
