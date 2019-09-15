@@ -63,6 +63,7 @@
 - [小区“15分钟社区生活圈”空间聚类研究——基于POI数据（张波等）](http://www.stats.gov.cn/tjzs/tjsj/tjcb/dysj/201902/t20190202_1648188.html)
 - [各城市的知城·便利店指数](https://www.cbnweek.com/articles/normal/18026>)
 - [北上广深，谁满足了你对便利店的终极幻想？](<https://36kr.com/p/5155502> )
+- [中国医院排行榜](http://rank.cn-healthcare.com/rank/general-best>)
 
 
 ### 报道&文章
