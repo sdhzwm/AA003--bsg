@@ -78,6 +78,7 @@
 - [逃离你终将衰落的家乡](https://mp.weixin.qq.com/s/hW3imAPE0CzpnCiGT--sRQ )
 - [新一线城市员工更年轻 近四成本科生毕业三年后离开“北上广深”](http://www.nbd.com.cn/articles/2019-07-05/1351175.html)
 - [谁在向往新一线城市？](https://www.huxiu.com/article/268076.html)
+- [逃离北上广-搜狐文化](http://cul.sohu.com/s2009/taoli/)
 
 
 ## ChangeLog
