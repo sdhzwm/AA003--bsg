@@ -14,8 +14,11 @@
 - [会议记录与随笔](https://github.com/sdhzwm/AA003--bsg/issues)
 - [项目进度表](https://shimo.im/sheets/9JKQWhPXtdPYkH8H/668Nx/)
 - [最终报告呈现]
-    - [逃离之离，不止诗和远方](https://shimo.im/docs/cyQcCDxDTwwcdTQw)
-    - [自有诗和远方，何必远离北上广](https://shimo.im/docs/KYqyx3xc3rPVhwpX)
+    - [正方：留在北上广，这里有诗和远方](https://shimo.im/docs/hpxcgRQrR36p3pYh)
+    - [反方：逃离北上广，不止为诗和远方](https://shimo.im/docs/cyQcCDxDTwwcdTQw)
+- [结业谢语]
+    - [留离之辩，幸好有你](https://shimo.im/docs/pXCjDqtTDqcyvVYp)
+
 
 ## 团队成员
 
@@ -81,7 +84,8 @@
 
 
 ## ChangeLog
-- 1009017 沐风 update 团队成员
+- 190918 junstudys update 成果链接
+- 190917 沐风 update 团队成员
 - 190911 沐风 update 分类
 - 190910 沐风 add 反方资料
 - 190910 junstudys add
